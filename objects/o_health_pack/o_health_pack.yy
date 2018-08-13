@@ -2,7 +2,7 @@
     "id": "da98b65e-7b34-4ce2-b7be-2a05a88d8e9b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "HealthPack",
+    "name": "o_health_pack",
     "eventList": [
         {
             "id": "327462f4-38f0-4788-adfd-d4200dfd31ac",
@@ -26,6 +26,7 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -69,6 +70,7 @@
         }
     ],
     "physicsStartAwake": true,
+    "properties": null,
     "solid": false,
     "spriteId": "5c142de4-c24b-4daa-9a8f-98487a48f706",
     "visible": true

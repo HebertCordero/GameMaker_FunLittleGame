@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1ee29bd1-e803-4552-bb66-9007cf544b9a",
+            "Value": {
+                "id": "718e93d5-90a6-48aa-b938-55d0757bba09",
+                "resourcePath": "sprites\\s_upgrade\\s_upgrade.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21973645-3591-47b7-ae60-65442505efb5",
             "Value": {
                 "id": "a157201b-9469-4dd5-bafb-419692be925a",
@@ -210,7 +218,7 @@
             "Key": "5c142de4-c24b-4daa-9a8f-98487a48f706",
             "Value": {
                 "id": "30a95e7a-19eb-49cf-b6a6-1444dcb536fa",
-                "resourcePath": "sprites\\Health\\Health.yy",
+                "resourcePath": "sprites\\s_health\\s_health.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -506,7 +514,7 @@
             "Key": "da98b65e-7b34-4ce2-b7be-2a05a88d8e9b",
             "Value": {
                 "id": "2bacafef-bd2b-4874-9cb4-53e5894f7db0",
-                "resourcePath": "objects\\HealthPack\\HealthPack.yy",
+                "resourcePath": "objects\\o_health_pack\\o_health_pack.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -524,6 +532,14 @@
                 "id": "619afb49-c28c-4958-8bdc-589ec1a616e7",
                 "resourcePath": "sounds\\enemyLaser1\\enemyLaser1.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e287fc00-0822-44f9-a9c9-70e57b6fe96b",
+            "Value": {
+                "id": "fc6823ab-3ce2-4d8f-92a5-71ec0b804efe",
+                "resourcePath": "objects\\o_upgade_pack\\o_upgade_pack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -583,6 +599,14 @@
             }
         },
         {
+            "Key": "f787c266-730f-4166-be1e-92cd8534752d",
+            "Value": {
+                "id": "3a0b14af-2659-4416-8e1a-5093914f6029",
+                "resourcePath": "objects\\o_shield_pack\\o_shield_pack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f81f2ad6-bf9a-4d85-ab8c-89f8c4a46eb8",
             "Value": {
                 "id": "742b7919-c607-4f4a-8128-480151d0d9bc",
@@ -596,6 +620,14 @@
                 "id": "27cef001-345c-4144-970c-26b4b7fd8e5d",
                 "resourcePath": "views\\fbf65be1-c10c-42ae-8a33-b2d148160a39.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fd18b89c-e08f-484f-af7f-cfd7db4a6104",
+            "Value": {
+                "id": "dc7c7bdd-edad-4ff1-9e6c-5e9f385a6f99",
+                "resourcePath": "sprites\\s_shield\\s_shield.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

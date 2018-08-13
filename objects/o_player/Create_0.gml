@@ -1,6 +1,7 @@
 /// @description Create the variables
 speed_ = [0, 0];
 max_speed_ = 4;
+bulletCD = 1;
 gravity_ = .5;
 acceleration_ = 1;
 friction_ = .3;
@@ -17,7 +18,7 @@ keyboard_set_map(ord("S"), vk_down);
 keyboard_set_map(ord("D"), vk_right);
 
 // Bullet cooldown
-bullet_cooldown_ = room_speed/2;
+bullet_cooldown_ = room_speed;
 alarm[0] = bullet_cooldown_;
 
 // Scale variables
